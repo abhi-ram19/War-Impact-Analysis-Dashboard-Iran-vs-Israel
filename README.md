@@ -44,4 +44,5 @@ To analyze real-world economic stress indicators beyond GDP and understand the b
 
 ## 📸 Dashboard Preview
 
-(Add your screenshot here)
+<img width="1034" height="619" alt="image" src="https://github.com/user-attachments/assets/26c6da08-61bf-4c26-87dc-1162ffea8064" />
+
